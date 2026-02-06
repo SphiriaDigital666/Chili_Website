@@ -7,12 +7,14 @@ function Navbar() {
   const navLinks = [
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/About' },
+
     { name: 'Products', href: '/Product' },
     { name: 'Our Process', href: '/OurProcess' },
     { name: 'Certifications', href: '/Certifications' },
     { name: 'Blog', href: '/Blog' },
     { name: 'Careers', href: '/Careers' },
     { name: 'Contact us', href: '/Contactus' }
+
   ]
 
   return (
